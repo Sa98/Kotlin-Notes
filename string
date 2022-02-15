@@ -1,0 +1,9 @@
+
+    Strings are sequences of characters wrapped in double-quotes.
+    A Character represents a single digit, symbol, or letter wrapped in single quotes.
+    String concatenation is the process of joining Strings using a + operator.
+    String templates are used to substitute variable values within a String using a $ symbol.
+    The readLine() function is used to accept a user’s input via the bash shell.
+    The built-in length property determines the number of characters in a String.
+    The built-in capitalize() function is used to capitalize the String onto which it’s appended.
+    Character escape sequences allow for the compiler to perform certain formatting operations on a String.
